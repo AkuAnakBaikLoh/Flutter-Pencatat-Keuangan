@@ -1,4 +1,6 @@
 # pencatatan_keuangan
+[MAKALAH MOBILE PROGRAMMING I KEL-3.pdf](https://github.com/user-attachments/files/20865802/MAKALAH.MOBILE.PROGRAMMING.I.KEL-3.pdf)
+[PPT MP Kel-6.pdf](https://github.com/user-attachments/files/20865803/PPT.MP.Kel-6.pdf)
 
 A new Flutter project.
 
